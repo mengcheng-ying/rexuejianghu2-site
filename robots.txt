@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://jh.fmbly.com/sitemap.xml
+# 更新于 2026-09-13（补充 404 页，修复未知路径回落首页）
